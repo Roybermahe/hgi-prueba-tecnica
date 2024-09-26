@@ -1,0 +1,16 @@
+﻿version: "3.8"
+
+services:
+  postgres:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_ROOT_PASSWORD: pruebatecnicahgi
+      POSTGRES_USER: pruebatecnicahgi
+      POSTGRES_PASSWORD: pruebatecnicahgi
+      POSTGRES_DATABASE: pruebatecnicahgi
+      TZ: America/Bogota
+    ports:
+      - 5432:5432
+    volumes:
+      - ./docker/postgres/volumes:/var/lib/postgres

@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\bin\Debug\net8.0\aplicacion.deps.json
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\bin\Debug\net8.0\aplicacion.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\bin\Debug\net8.0\aplicacion.pdb
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\aplicacion.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\aplicacion.AssemblyInfo.cs
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\aplicacion.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\refint\aplicacion.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\aplicacion.pdb
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\ref\aplicacion.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\bin\Debug\net8.0\dominio.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\bin\Debug\net8.0\dominio.pdb
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\aplicacion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\obj\Debug\net8.0\aplicacion.csproj.Up2Date
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\bin\Debug\net8.0\infraestructura.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\aplicacion\bin\Debug\net8.0\infraestructura.pdb

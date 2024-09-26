@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\bin\Debug\net8.0\infraestructura.deps.json
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\bin\Debug\net8.0\infraestructura.runtimeconfig.json
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\bin\Debug\net8.0\infraestructura.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\bin\Debug\net8.0\infraestructura.pdb
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\bin\Debug\net8.0\dominio.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\bin\Debug\net8.0\dominio.pdb
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.AssemblyInfo.cs
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraest.D0CF518E.Up2Date
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\refint\infraestructura.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.pdb
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.genruntimeconfig.cache
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\ref\infraestructura.dll
