@@ -9,3 +9,4 @@ C:\Users\User\source\repos\hgiPruebaTecnica\dominio\obj\Debug\net8.0\dominio.dll
 C:\Users\User\source\repos\hgiPruebaTecnica\dominio\obj\Debug\net8.0\refint\dominio.dll
 C:\Users\User\source\repos\hgiPruebaTecnica\dominio\obj\Debug\net8.0\dominio.pdb
 C:\Users\User\source\repos\hgiPruebaTecnica\dominio\obj\Debug\net8.0\ref\dominio.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\dominio\obj\Debug\net8.0\dominio.sourcelink.json

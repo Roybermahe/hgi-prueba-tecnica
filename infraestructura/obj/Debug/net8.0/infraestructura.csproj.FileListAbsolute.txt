@@ -15,3 +15,4 @@ C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\ref
 C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.pdb
 C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.genruntimeconfig.cache
 C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\ref\infraestructura.dll
+C:\Users\User\source\repos\hgiPruebaTecnica\infraestructura\obj\Debug\net8.0\infraestructura.sourcelink.json

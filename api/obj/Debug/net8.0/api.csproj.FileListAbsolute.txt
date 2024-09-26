@@ -158,3 +158,4 @@ C:\Users\User\source\repos\hgiPruebaTecnica\api\bin\Debug\net8.0\runtimes\browse
 C:\Users\User\source\repos\hgiPruebaTecnica\api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\User\source\repos\hgiPruebaTecnica\api\bin\Debug\net8.0\aplicacion.dll
 C:\Users\User\source\repos\hgiPruebaTecnica\api\bin\Debug\net8.0\aplicacion.pdb
+C:\Users\User\source\repos\hgiPruebaTecnica\api\obj\Debug\net8.0\api.sourcelink.json
